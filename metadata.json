@@ -1,0 +1,7 @@
+{
+  "name": "OSINT Global Public Data Explorer",
+  "description": "Interactive OSINT intelligence gathering and resource discovery platform with category tree, live search, advanced filtering, bookmarking, ratings, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
